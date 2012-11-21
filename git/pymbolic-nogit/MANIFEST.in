@@ -1,0 +1,3 @@
+include LITERATURE
+include TODO
+include distribute_setup.py
